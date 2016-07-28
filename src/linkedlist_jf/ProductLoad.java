@@ -3,7 +3,7 @@ package linkedlist_jf;
 /**
  * A ProductLoad represents a product (cargo) that is be delivered to a destination.
  * 
- * @author flyasth3sky
+ * @author Jonathan Figueroa
  */
 public class ProductLoad {
     
