@@ -28,7 +28,7 @@ public class ProductLoad {
      * @param dangerous
      *      Indicates whether this a dangerous or hazardous product.
      */
-    public ProductLoad (String prodName, double weight, double value, boolean dangerous) {
+    ProductLoad (String prodName, double weight, double value, boolean dangerous) {
         this.prodName = prodName;
         this.weight = weight;
         this.value = value;
